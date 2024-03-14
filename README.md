@@ -8,6 +8,8 @@
 
 👨‍🎓 Cursando Programação Front-end - DevMedia
 
+👨‍🎓 Java + React FullStack - BootCamp Generation Brasil 
+
 📱 Apaixonada por tecnologia 
 
 ###
