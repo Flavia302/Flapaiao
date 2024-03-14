@@ -33,6 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
 </div>
 
+<br>
+<div align="center">
+   <a href="https://github.com/Flapaiao">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flapaiao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flapaiao&layout=compact&langs_count=6&theme=synthwave"/>
+</div>
+
 ###
 
 <h2 align="center">📫 Contatos:</h2>
@@ -49,3 +56,5 @@
 </div>
 
 ###
+
+    
