@@ -8,7 +8,9 @@
 
 👨‍🎓 Cursando Programação Front-end - DevMedia
 
-👨‍🎓 Java + React FullStack - BootCamp Generation Brasil 
+👨‍🎓 Java + React FullStack Jr. - BootCamp Generation Brasil 
+
+👨‍🎓 Fundamentos de IA - Bootcamp Santander + DIO
 
 📱 Apaixonada por tecnologia 
 
